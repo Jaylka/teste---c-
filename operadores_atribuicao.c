@@ -30,8 +30,5 @@ int main(){
     //resultado = resultado / 2;
     resultado /= 2;
     printf("Resultado: %d\n", resultado);
-    
-
-
-    
+     
 }
